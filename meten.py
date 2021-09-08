@@ -7,3 +7,5 @@ if varA > varB:
 elif varA < varB:
     min = str(varA)
     print("a is het kleinste getal: "+min)
+elif varA == varB:
+    print("a en b zijn even groot")
